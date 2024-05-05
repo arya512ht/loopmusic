@@ -7,7 +7,7 @@ export const initialState = {
   currentPlaying: null,
   playerState: false,
   selectedPlaylist: null,
-  selectedPlaylistId: "37i9dQZF1E37jO8SiMT0yN",
+  selectedPlaylistId: "7GBDZGAyX9xHIPA8qdc2Sf",
 };
 
 const reducer = (state, action) => {
